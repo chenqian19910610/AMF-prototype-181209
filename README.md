@@ -1,5 +1,5 @@
 # AMF-prototype-181209
-first version of prototype for my Phd study
+First version of prototype for my Phd study
 
 
 
